@@ -77,7 +77,7 @@ Based on COMP 342 syllabus, this project demonstrates:
 6. Switch to 2D orthographic projection for UI
 7. Draw buttons and text overlays
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -142,10 +142,6 @@ cloth-drop-simulation/
 ├── cloth_drop_simulation.py    # Main simulation file
 ├── README.md                    # This file
 ├── requirements.txt             # Python dependencies
-├── screenshots/                 # Project screenshots
-│   ├── simulation_running.png
-│   ├── wireframe_mode.png
-│   └── different_resolutions.png
 └── docs/                        # Additional documentation
     └── REPORT.md
 ```
